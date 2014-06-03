@@ -1,0 +1,32 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: Cp1252
+
+@MISC{Tor,
+  author = {Dingledine, Roger and Steven J. Murdoch},
+  title = {Performance Improvements on Tor or, Why Tor is slow and what we're
+	going to do about it},
+  year = { 2009 }
+}
+
+@MISC{voca,
+  author = {Markowitz, Eric},
+  title = {Tor Usage Has Dropped Nearly 50 in Three Months},
+  year = {2014},
+  url = {www.vocativ.com/01-2014/tor-usage-dropped-neary-50-three-months/},
+  urldate = {2014-01-22}
+}
+
+@MISC{slow,
+  author = {Moore, W. Brad and Chris Wacek and Micah Sherr},
+  title = {Exploring the Potential Benefits of Expanded Rate Limiting in {Tor}:
+	Slow and Steady Wins the Race with Tortoise},
+  year = {2011}
+}
+
+@MISC{Tune,
+  author = {Snader, Robin and Nikita Borisov},
+  title = {A Tune-up for Tor: Improving Security and Performance in the Tor
+	Network},
+  year = {2008}
+}
+
